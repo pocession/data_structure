@@ -1,2 +1,2 @@
 # data_structure
-This repository is a folder to store all code I learn and practice for data structures.
+This repository is a folder to store all codes I have learned and practiced for data structures.
